@@ -3,6 +3,7 @@
    width: 20%; 
    background-color: #fff; 
    padding-top: 20px;
+   position: fixed;
 }
 
 .logo {

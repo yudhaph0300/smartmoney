@@ -1,15 +1,25 @@
+
 .summary {
    margin-top: 20px;
+}
+.card-info-1 {
+   min-height: 0 !important;
 }
 .card {
    border: none;
    border-radius: 10px;
+   min-height: 400px;
 }
 .sum-title {
    font-size: 16px !important;
-   color: #8E8D93;
+   font-weight: 700;
+   opacity: 80%;
 }
 .sum-desc {
    font-size: 14px;
    color: #8E8D93;
+}
+
+table tr td {
+   opacity: 80%;
 }
